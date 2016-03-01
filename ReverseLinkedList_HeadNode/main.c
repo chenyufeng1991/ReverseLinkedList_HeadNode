@@ -116,8 +116,6 @@ Node *ReverseList(Node *pNode){
     return reverseList;
 }
 
-
-
 int main(int argc, const char * argv[]) {
 
     Node *pList;
@@ -131,15 +129,4 @@ int main(int argc, const char * argv[]) {
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
 
